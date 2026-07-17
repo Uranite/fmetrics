@@ -15,8 +15,8 @@
             .hash = "simpleimgio-0.0.0-oHTuOdP9AADo0x_m-pBpu0Fi6GnqgVvbN_l2Ul4HbViE",
         },
         .fcvvdp = .{
-            .url = "git+https://github.com/halidecx/fcvvdp.git#98bd21a7a876be29ba06a29325b03624047ee850",
-            .hash = "fcvvdp-0.4.0-DualWPL1BAD7bF7Jair50v5Se-G-VluA9Y2FElmJZe2y",
+            .url = "git+https://github.com/Uranite/fcvvdp.git#fb76f73549981638f588ea991728c30f56c72e0c",
+            .hash = "fcvvdp-0.4.0-DualWIv2BADoCAiXgaRMR_3PHZgOPiqtehL4h8ZMuUuW",
         },
     },
     .fingerprint = 0xcc4003cccc882e16,
